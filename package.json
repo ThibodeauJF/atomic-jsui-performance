@@ -1,0 +1,14 @@
+{
+  "name": "atomic-jsui-performance",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "netlify dev",
+    "deploy": "netlify link && netlify deploy --prod --open"
+  },
+  "devDependencies": {
+    "netlify-cli": "10.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
